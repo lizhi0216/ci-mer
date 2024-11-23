@@ -1,4 +1,4 @@
 # CI-MER
 
-The code will be coming soon
+The code will be coming soon.
 
